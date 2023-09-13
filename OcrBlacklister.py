@@ -10,8 +10,8 @@ import asyncio
 
 intents = discord.Intents.all()
 
-TOKEN = 'MTE1MTQ4NTI2NzU4MTA5MTg4MQ.GWK8TR.Pjs_hjNusD99DmwuU6yDvKQWTY-ad8nvMqfIQo'
-BLACKLISTED_PHRASES = ["tzgnis", "canceljohnnys", "kickpredators", "degen", "degen_news", "degennews", "degenews", "dox", "doxxing", "phrase1"]
+TOKEN = 'TOKENHERE'
+BLACKLISTED_PHRASES = ["tzgnis", "canceljohnnys", "kickpredators", "degen", "degen_news", "degennews", "degenews", "dox", "doxxing"]
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
