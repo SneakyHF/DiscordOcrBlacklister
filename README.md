@@ -10,3 +10,5 @@ pip install beautifulsoup4
 ```
 
 Python 3
+
+You also need Tesseract and if you're on windows you need to add it to your PATH enviroment variable.
